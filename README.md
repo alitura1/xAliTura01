@@ -5,4 +5,4 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xAliTura01&repo=Ratio&show_owner=true&theme=gotham&border_color=fff)](https://github.com/xAliTura01/LRatio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xAliTura01&repo=Ratio&show_owner=true&theme=gotham&border_color=fff)](https://github.com/xAliTura01/Ratio)
